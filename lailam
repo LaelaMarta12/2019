@@ -1,0 +1,87 @@
+
+<html>
+<head>
+	<title>Membuat Table</title>
+</head>
+<body>
+     <table>
+     	<thead>
+     	  <tr>
+     	  	 <th>no</th>
+     	  	 <thnama</th>
+     	  	 <th>alamat</th>
+     	  	 <th>kelas</th>
+     	  	 <th>foto</th>
+     	  </tr>
+        </thead>
+ 		<tbody>
+ 		     <tr>
+ 		     	<td>1</td>
+ 		     	<td>laila</td>
+ 		     	<td>indihiang</td>
+ 		     	<td>X rpl 1</td>
+ 		     	<td><img src='laila.jpg'></td>
+ 		     </tr>
+ 		     <tr>
+ 		     	<td>2</td>
+ 		     	<td>risma</td>
+ 		     	<td>indihiang</td>
+ 		     	<td>X rpl 1</td>
+ 		     	<td><img src='risma.jpg'></td>
+ 		     </tr>
+ 		     <tr>n</td>
+ 		     	<td>3</td>
+ 		     	<td>dian</td>
+ 		     	<td>culamega</td>
+ 		     	<td>X rpl 1</td>
+ 		     	<td><img src='dian.jpg'></td>
+ 		     </tr>
+ 		     <tr>
+ 		     	<td>4</td>
+ 		     	<td>deby</td>
+ 		     	<td>sawahlempay</td>
+ 		     	<td>X rpl 1</td>
+ 		     	<td><img src='deby.jpg'></td>
+ 		     </tr>
+ 		     <tr>
+ 		     	<td>5</td>
+ 		     	<td>irma</td>
+ 		     	<td>cieunteung</td>
+ 		     	<td>X RPL 1</td>
+ 		     	<td><img src='irma.jpg'></td>
+ 		     </tr>
+               <tr>
+                    <td>6</td>
+                    <td>alisni</td>
+                    <td>leuwianyar</td>
+                    <td>x rpl 1</td>
+                    <td><img src="alisni.jpg"></td>
+               </tr>
+ 		</tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     </table>
+</body>
+</html>
